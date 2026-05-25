@@ -1,0 +1,12 @@
+.env
+.mcp.json
+mcp.json
+venv/
+__pycache__/
+*.pyc
+*.pyo
+reports/
+automation.log
+.pytest_cache/
+allure-results/
+screenshots/
